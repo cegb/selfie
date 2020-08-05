@@ -32,7 +32,7 @@
             format: 'json',
             method: 'flickr.interestingness.getList',
 			per_page : numOfImages,
-            api_key: 'b51d3a7c3988ba6052e25cb152aecba2' // this is my own API key, please use yours
+            api_key: '0a081a25e2850e7f665aa56b02880b7f' //'b51d3a7c3988ba6052e25cb152aecba2' // this is my own API key, please use yours
         },
 	    dataType: 'jsonp',
         jsonp: 'jsoncallback'
